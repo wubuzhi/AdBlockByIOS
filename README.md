@@ -8,7 +8,7 @@
 ---
 
 ### 扫描二维码关注，回复【小飞机】获取美国地区apple id下载Shadowrocket
-![avatar](https://github.com/wubuzhi/AdBlockByIOS/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201119130958.jpg)
+![RUNOOB 图标](https://github.com/wubuzhi/AdBlockByIOS/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201119130958.jpg)
 
 
 
