@@ -1,0 +1,10 @@
+#!name=Bahamut
+#!desc=Bahamut animation app removes ads.
+#!system=ios
+
+[Script]
+http-request https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v3\/token\.php script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bahamut.js
+http-response https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v3\/token\.php requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bahamut.js
+
+[MITM]
+hostname = %APPEND% api.gamer.com.tw
