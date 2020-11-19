@@ -3,6 +3,7 @@
 ### 简介
 
 本项目最早是 Fork [scomper/surge.conf](https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8) 定制修改而来。
+具体的使用说明，请点击：[苹果手机去App开屏&内置广告教程](https://wwa.lanzous.com/icKkKijhv8d)
 
 ---
 
